@@ -1,0 +1,19 @@
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 43px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgb(0, 115, 255);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 100%;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
